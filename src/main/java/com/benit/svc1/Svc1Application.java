@@ -9,5 +9,5 @@ public class Svc1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Svc1Application.class, args);
 	}
-//hahaha...
+//신규 브랜치 생성
 }
