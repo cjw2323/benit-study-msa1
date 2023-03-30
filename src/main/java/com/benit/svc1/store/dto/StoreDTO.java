@@ -5,6 +5,8 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+//dao = data access object
+//dto = data to object
 @Getter
 @Setter
 @ToString
